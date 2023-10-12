@@ -1,2 +1,2 @@
 # System-ToolChain
-Projects on hands-on application of MLOps
+hands-on application of MLOps
